@@ -1,3 +1,4 @@
+## Version 0.1 - initial Set Up
 ## Functions to create an object that can store a
 ## matrix and its inverse and return that inverse
 ## or calculate it
